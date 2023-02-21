@@ -1,0 +1,14 @@
+конфигурация проекта
+django-admin startproject <имя проекта> .
+
+запуск проекта (это утилита командной строки Django для выполнения административных задач)
+python -m django startproject mysite
+
+запуск проекта
+python manage.py runserver
+
+копирование файла
+cp template.env .env
+
+
+404
